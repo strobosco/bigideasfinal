@@ -36,7 +36,7 @@ For the final project you will work as part of a team to answer the question:
 <div align='center' style='font-size:20px;'><italic>What is the best neighborhood in Pittsburgh?</italic></div>
 <br />
 
-Using data from the WPRDC, you will create a data driven argument to support your claim about the “best” neighborhood in Pittsburgh.With your group members, you will be creating a Jupyter notebook to demonstrate your argument and the data analysis you did to support it. You will present your arguments to the class in the last two weeks of lab sections.
+Using data from the [WPRDC](http://www.wprdc.org), you will create a data driven argument to support your claim about the “best” neighborhood in Pittsburgh.With your group members, you will be creating a Jupyter notebook to demonstrate your argument and the data analysis you did to support it. You will present your arguments to the class in the last two weeks of lab sections.
 
 <br />
 
