@@ -16,7 +16,7 @@
 1. https://data.wprdc.org/dataset/allegheny-county-fatal-accidental-overdoses
 
   This dataset contains information regarding accidental overdoses that occurred in Allegheny county
-
+ 
 2. https://data.wprdc.org/dataset/allegheny-county-covid-19-tests-cases-and-deaths
 
   This dataset contains information regarding COVID in Allegheny county
