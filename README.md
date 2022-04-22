@@ -1,6 +1,9 @@
-# CMPINF0010 Final Project
+# _Pittsburgh's Best Neighborhood_
+### CMPINF0010 Final Project
 
-# Little Italy 🇮🇹🇮🇹🇮🇹
+---
+
+### Little Italy 🇮🇹🇮🇹🇮🇹
 
 **Team members:**
 | Name         | Email     |
@@ -13,19 +16,19 @@
 
 ## Datasets
 
-1. https://data.wprdc.org/dataset/allegheny-county-fatal-accidental-overdoses
+- Pittsburgh Police Arrests | Maximus Hayes
 
-  This dataset contains information regarding accidental overdoses that occurred in Allegheny county
- 
-2. https://data.wprdc.org/dataset/allegheny-county-covid-19-tests-cases-and-deaths
+This dataset contains data about police arrests in Pittsburgh
 
-  This dataset contains information regarding COVID in Allegheny county
+- Playgrounds | Niccolo Nobili
 
-3. https://data.wprdc.org/dataset/allegheny-county-air-quality
+This dataset contains data about Pittsburgh's playgrounds
 
-  This dataset contains information regarding air quality in Allegheny county
+- Average Rent | Emmett Hulser-Morris
 
-**For more information, view respective [notebook descriptions](#emmett)**
+This dataset contains data about monthly rent in Pittsburgh neighborhoods
+
+**For more information, view respective [notebook descriptions](#analysis)**
 
 ---
 
@@ -40,13 +43,24 @@ Using data from the [WPRDC](http://www.wprdc.org), you will create a data driven
 
 <br />
 
-We will now introduce our datasets and explain our analysis:
+## Analysis
 
 ### Maximus
 
+Maximus analyzed police arrest data and criminal activity in 96 Pittsburgh neighborhoods. He was able to 
+obtain the amount of total and unique offenses in each neighborhood and created helpful visualizations for
+the rest of the team.
+
 ### Niccolo
 
+Niccolo analyzed data concerning 68 neighborhoods in Pittsburgh. He was able to indentify which neighbothoods
+had the most playgrounds and which had the least, correlating each quantity with the happiness metric the team used.
+
 ### Emmett
+
+Emmett analyzed data concerning the rent in 91 Pittsburgh neighbohoods. He was able to calculate the average
+rent in each neighborhood and sort these into most and least expensive. He also created helpful visualizations
+to see the cost of rent in Pittsburgh.
 
 ---
 
@@ -54,11 +68,11 @@ We will now introduce our datasets and explain our analysis:
 
 ```
 bigideasfinal
-  +-- .gitgnore     // gitgnore file for csv's
+  +-- .gitgnore         // gitgnore file for csv's (deprecated)
   |
-  +-- max.ipynb     // 
+  +-- safety.ipynb      // Maximus' analysis of arrest dataset
   |
-  +-- niccolo.ipynb //
+  +-- playgrounds.ipynb // Niccolo's analysis of playground data
   |
-  +-- emmett.ipynb  //
+  +-- cost.ipynb        // Emmett's analysis of cost of rent in Pittsburgh
 ```
