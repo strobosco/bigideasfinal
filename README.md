@@ -12,6 +12,8 @@
 | Maximus Hayes        | MCH103@pitt.edu |
 | Emmett Hulser-Morris | EMH163@pitt.edu |
 
+Final Project Group 96
+
 ---
 
 ## Datasets
